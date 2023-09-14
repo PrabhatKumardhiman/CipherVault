@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CipherVault/static/css/main.54db0517.css",
+    "main.js": "/CipherVault/static/js/main.2be811da.js",
+    "index.html": "/CipherVault/index.html",
+    "main.54db0517.css.map": "/CipherVault/static/css/main.54db0517.css.map",
+    "main.2be811da.js.map": "/CipherVault/static/js/main.2be811da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54db0517.css",
+    "static/js/main.2be811da.js"
+  ]
+}

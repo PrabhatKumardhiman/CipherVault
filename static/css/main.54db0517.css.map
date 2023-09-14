@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.54db0517.css","mappings":"AAAA,cACI,cACJ,CACA,qBACI,4BAAqB,CAArB,oBACJ","sources":["App.css"],"sourcesContent":[".bi-clipboard{\n    cursor: pointer;\n}\n.bi-clipboard:active{\n    transform: scale(1.5);\n}"],"names":[],"sourceRoot":""}
