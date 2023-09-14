@@ -1,0 +1,6 @@
+.bi-clipboard{
+    cursor: pointer;
+}
+.bi-clipboard:active{
+    transform: scale(1.5);
+}
