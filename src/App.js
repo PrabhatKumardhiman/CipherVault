@@ -5,6 +5,7 @@ import Homepage from './component/pages/Homepage';
 import Login from './component/pages/Login';
 import Signup from './component/pages/Signup';
 import { useState } from 'react';
+import About from "./component/pages/About";
 
 function App() {
   const [state, setState] = useState("initialState")
@@ -19,6 +20,7 @@ function App() {
         <section>
           <Routes>
             <Route exact path="/" element={<Homepage state = {setState}/>}> </Route>
+            <Route exact path="/about" element={<About state = {setState}/>}> </Route>
             <Route exact path="/login" element={<Login state = {setState}/>}> </Route>
             <Route exact path="/signup" element={<Signup state = {setState}/>}> </Route>
           </Routes>
