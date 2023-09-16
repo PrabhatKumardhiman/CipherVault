@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CipherVault/static/css/main.54db0517.css",
-    "main.js": "/CipherVault/static/js/main.2be811da.js",
+    "main.js": "/CipherVault/static/js/main.90479d51.js",
     "index.html": "/CipherVault/index.html",
     "main.54db0517.css.map": "/CipherVault/static/css/main.54db0517.css.map",
-    "main.2be811da.js.map": "/CipherVault/static/js/main.2be811da.js.map"
+    "main.90479d51.js.map": "/CipherVault/static/js/main.90479d51.js.map"
   },
   "entrypoints": [
     "static/css/main.54db0517.css",
-    "static/js/main.2be811da.js"
+    "static/js/main.90479d51.js"
   ]
 }
